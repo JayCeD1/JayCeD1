@@ -1,7 +1,7 @@
 ### whoami 👋
 - 🔭 I’m currently working with Java (Quarkus) and C# and finding developing cloud native apps to be fascinating.
 - 👯 I’m looking to collaborate on some fun open source projects in Java and C#
-- ⚡ Fun fact: I think am in love with C++ instead, however, I don't think she looks at me the same.🫣
+- ⚡ Fun fact: I am in love with C++ instead, however, I don't think she looks at me the same.🫣
 <!--
 **JayCeD1/JayCeD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
